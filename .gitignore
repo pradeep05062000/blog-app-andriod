@@ -1,0 +1,13 @@
+/blogClient/node_modules
+/blogClient/.expo/
+/blogClient/npm-debug.*
+/blogClient/*.jks
+/blogClient/*.p8
+/blogClient/*.p12
+/blogClient/*.key
+/blogClient/*.mobileprovision
+/blogClient/*.orig.*
+/blogClient/web-build/
+
+/blogServer/node_modules
+
